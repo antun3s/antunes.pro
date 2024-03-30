@@ -10,7 +10,7 @@ enableRobotsTXT = true
 pygmentsStyle = "monokai"
 
 [params]
-  footer = "My links"
+  footer = "My web links"
   description = "Passionate about technology, always learning and connecting ideas to opportunities. Let's connect!"
   accentcolor= "#9a59b5"
   avatarURL = "https://avatars.githubusercontent.com/u/6098562?v=4"
